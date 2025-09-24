@@ -1,4 +1,4 @@
-Hi. Sometimes I share some things here that I make and find useful.
+Hi. Sometimes I share some things here that I make or find useful.
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs,visualstudio,unity,git,arduino)](https://skillicons.dev)
 
